@@ -1,0 +1,3 @@
+default.configuration=bitbox-starter-archetype-domain
+eclipse.preferences.version=1
+hibernate3.enabled=true

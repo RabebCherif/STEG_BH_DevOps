@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: devopsUser3
+Class-Path: lib/primefaces-5.1.jar lib/primefaces.jar lib/mysql-connec
+ tor-java.jar lib/myFirstDevOpsApp-domain.jar
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_191
+
