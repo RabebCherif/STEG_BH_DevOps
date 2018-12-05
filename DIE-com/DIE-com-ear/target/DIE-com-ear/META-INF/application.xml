@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE application PUBLIC
+	"-//Sun Microsystems, Inc.//DTD J2EE Application 1.3//EN"
+	"http://java.sun.com/dtd/application_1_3.dtd">
+<application>
+  <display-name>DIE-com-ear</display-name>
+  <module id="EJB_tn.com.steg.DIE-com-service">
+    <ejb>DIE-com-service.jar</ejb>
+  </module>
+  <module id="WAR_tn.com.steg.DIE-com-web">
+    <web>
+      <web-uri>DIE-com-web.war</web-uri>
+      <context-root>DIE-com-web</context-root>
+    </web>
+  </module>
+</application>

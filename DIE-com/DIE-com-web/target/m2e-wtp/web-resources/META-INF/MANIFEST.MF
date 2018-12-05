@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: devopsUser1
+Class-Path: lib/primefaces-5.1.jar
+Build-Jdk: 1.8.0_191
+Created-By: Maven Integration for Eclipse
+

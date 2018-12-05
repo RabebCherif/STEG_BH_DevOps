@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: devopsUser1
+Class-Path: lib/primefaces.jar lib/mysql-connector-java.jar lib/DIE-co
+ m-domain.jar
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_191
+
